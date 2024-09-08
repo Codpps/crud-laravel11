@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## UI/UX
+**1. Index**
+
 ## About
 
 This project is a CRUD (Create, Read, Update, Delete) system for managing products using Laravel 11. It includes features for handling product data such as images, names, purchase prices, sale prices, stock, and categories (food, drinks, snacks). The system also supports basic CRUD operations and is designed with a user-friendly interface.
@@ -27,5 +30,8 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Codpps/crud-laravel11.git
+   cd cd crud-laravel11
+   php artisan migrate
+   php artisan serve
+   
