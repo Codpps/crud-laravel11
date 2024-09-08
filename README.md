@@ -9,6 +9,7 @@
 
 ## UI/UX
 **1. Index**
+![alt text](https://github.com/Codpps/crud-laravel11/blob/main/Index.png)
 
 ## About
 
