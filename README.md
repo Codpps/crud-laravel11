@@ -10,6 +10,12 @@
 ## UI/UX
 **1. Index**
 ![alt text](https://github.com/Codpps/crud-laravel11/blob/main/Index.png)
+**2. Create**
+![alt text](https://github.com/Codpps/crud-laravel11/blob/main/create.png)
+**3. Edit**
+![alt text] (https://github.com/Codpps/crud-laravel11/blob/main/edit.png)
+**4. Show**
+![alt text] (https://github.com/Codpps/crud-laravel11/blob/main/show.png)
 
 ## About
 
